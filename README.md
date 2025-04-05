@@ -1,6 +1,6 @@
 ## 👋🚀 Hi, I'm Urvi Dhomne
 
-I am an **aspiring data engineer** with over 2 years of experience in **Python**, **SQL**, **Tableau**, and **MS Excel**. I have a strong foundation in **statistical analysis**, **predictive modeling**, and **project management**.
+I am an **aspiring data analyst** with over 2 years of experience in **Python**, **SQL**, **Tableau**, **MS Excel** and other tools. I have a strong foundation in **statistical analysis**, **predictive modeling**, and **project management**.
 
 ### 📫 How to Reach Me
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/urvidhomne/)
